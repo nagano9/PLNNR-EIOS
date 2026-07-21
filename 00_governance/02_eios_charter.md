@@ -32,9 +32,9 @@ EIOS bersifat **advisory dan enabling**, bukan **decisive**. Keputusan formal â€
 | Peran | Pengampu (disarankan) | Catatan |
 |---|---|---|
 | Executive Sponsor | Direktur Utama / Direktur terkait PLN NR | Divalidasi Direksi |
-| Business Owner | Direktur Investasi / Perencanaan Korporat | ## diisi |
+| Business Owner | Direktur Investasi / Perencanaan Korporat | *Ditetapkan Direksi pada aktivasi (lihat activation plan)* |
 | Knowledge Governance Owner | Sekretaris Perusahaan / fungsi yang ditetapkan | Mengacu peran Sekper |
-| Technology Owner | Fungsi TI / Digital PLN NR | ## diisi |
+| Technology Owner | Fungsi TI / Digital PLN NR | *Ditetapkan Direksi pada aktivasi (lihat activation plan)* |
 | Risk & Compliance | Fungsi Manajemen Risiko & Kepatuhan | Mengacu **PER-5/MBU/09/2022** |
 | Assurance | Satuan Pengawasan Intern (SPI) | Independen dari pembuat artefak |
 | Domain Owners | Masing-masing fungsi bisnis | Kebenaran substansi |
