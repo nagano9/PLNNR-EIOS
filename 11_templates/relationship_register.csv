@@ -1,0 +1,2 @@
+source_object_id,relationship,target_object_id,evidence,status
+EXAMPLE-001,supports,EXAMPLE-002,##,draft

@@ -1,0 +1,463 @@
+{
+  "repository": "PLNNR_EIOS_Foundation_v2.6",
+  "version": "2.6",
+  "edition": "Governance + APQC + Templates + JVC Examples (maj/min/deadlock)",
+  "artifact_count": 91,
+  "artifacts": [
+    {
+      "path": "00_governance/01_enterprise_intelligence_manifesto.md",
+      "size_bytes": 1712,
+      "extension": ".md"
+    },
+    {
+      "path": "00_governance/02_eios_charter.md",
+      "size_bytes": 2323,
+      "extension": ".md"
+    },
+    {
+      "path": "00_governance/03_governance_principles.md",
+      "size_bytes": 1561,
+      "extension": ".md"
+    },
+    {
+      "path": "00_governance/04_roles_and_accountabilities.md",
+      "size_bytes": 2238,
+      "extension": ".md"
+    },
+    {
+      "path": "00_governance/05_repository_governance.md",
+      "size_bytes": 1626,
+      "extension": ".md"
+    },
+    {
+      "path": "00_governance/06_regulatory_basis.md",
+      "size_bytes": 5167,
+      "extension": ".md"
+    },
+    {
+      "path": "00_governance/07_decision_authority_and_gates.md",
+      "size_bytes": 5327,
+      "extension": ".md"
+    },
+    {
+      "path": "01_architecture/01_eios_reference_architecture.md",
+      "size_bytes": 768,
+      "extension": ".md"
+    },
+    {
+      "path": "01_architecture/02_system_context.md",
+      "size_bytes": 525,
+      "extension": ".md"
+    },
+    {
+      "path": "01_architecture/03_information_flow.md",
+      "size_bytes": 846,
+      "extension": ".md"
+    },
+    {
+      "path": "01_architecture/04_nonfunctional_requirements.md",
+      "size_bytes": 899,
+      "extension": ".md"
+    },
+    {
+      "path": "01_architecture/05_integration_strategy.md",
+      "size_bytes": 1014,
+      "extension": ".md"
+    },
+    {
+      "path": "02_knowledge_model/01_knowledge_object_standard.md",
+      "size_bytes": 826,
+      "extension": ".md"
+    },
+    {
+      "path": "02_knowledge_model/02_knowledge_lifecycle.md",
+      "size_bytes": 385,
+      "extension": ".md"
+    },
+    {
+      "path": "02_knowledge_model/03_knowledge_quality_framework.md",
+      "size_bytes": 717,
+      "extension": ".md"
+    },
+    {
+      "path": "02_knowledge_model/04_source_authority_hierarchy.md",
+      "size_bytes": 1043,
+      "extension": ".md"
+    },
+    {
+      "path": "02_knowledge_model/05_knowledge_relationship_model.md",
+      "size_bytes": 335,
+      "extension": ".md"
+    },
+    {
+      "path": "03_metadata/01_metadata_standard.md",
+      "size_bytes": 626,
+      "extension": ".md"
+    },
+    {
+      "path": "03_metadata/02_naming_convention.md",
+      "size_bytes": 833,
+      "extension": ".md"
+    },
+    {
+      "path": "03_metadata/03_classification_scheme.md",
+      "size_bytes": 862,
+      "extension": ".md"
+    },
+    {
+      "path": "03_metadata/04_taxonomy_standard.md",
+      "size_bytes": 1111,
+      "extension": ".md"
+    },
+    {
+      "path": "03_metadata/05_versioning_standard.md",
+      "size_bytes": 689,
+      "extension": ".md"
+    },
+    {
+      "path": "04_ontology/01_enterprise_ontology_overview.md",
+      "size_bytes": 1055,
+      "extension": ".md"
+    },
+    {
+      "path": "04_ontology/02_core_entities.md",
+      "size_bytes": 1213,
+      "extension": ".md"
+    },
+    {
+      "path": "04_ontology/03_core_relationships.md",
+      "size_bytes": 350,
+      "extension": ".md"
+    },
+    {
+      "path": "04_ontology/04_finance_ontology.md",
+      "size_bytes": 913,
+      "extension": ".md"
+    },
+    {
+      "path": "04_ontology/05_project_ontology.md",
+      "size_bytes": 1069,
+      "extension": ".md"
+    },
+    {
+      "path": "05_corporate_memory/01_corporate_memory_framework.md",
+      "size_bytes": 893,
+      "extension": ".md"
+    },
+    {
+      "path": "05_corporate_memory/02_lessons_learned_standard.md",
+      "size_bytes": 363,
+      "extension": ".md"
+    },
+    {
+      "path": "05_corporate_memory/03_pattern_library_standard.md",
+      "size_bytes": 341,
+      "extension": ".md"
+    },
+    {
+      "path": "05_corporate_memory/04_retention_and_archiving.md",
+      "size_bytes": 938,
+      "extension": ".md"
+    },
+    {
+      "path": "06_decision_intelligence/01_decision_compounding_framework.md",
+      "size_bytes": 432,
+      "extension": ".md"
+    },
+    {
+      "path": "06_decision_intelligence/02_decision_record_standard.md",
+      "size_bytes": 1531,
+      "extension": ".md"
+    },
+    {
+      "path": "06_decision_intelligence/03_assumption_register_standard.md",
+      "size_bytes": 898,
+      "extension": ".md"
+    },
+    {
+      "path": "06_decision_intelligence/04_decision_quality_review.md",
+      "size_bytes": 317,
+      "extension": ".md"
+    },
+    {
+      "path": "06_decision_intelligence/05_board_intelligence_baseline.md",
+      "size_bytes": 1278,
+      "extension": ".md"
+    },
+    {
+      "path": "07_intelligence_capital/01_intelligence_capital_framework.md",
+      "size_bytes": 735,
+      "extension": ".md"
+    },
+    {
+      "path": "07_intelligence_capital/02_intelligence_balance_sheet.md",
+      "size_bytes": 455,
+      "extension": ".md"
+    },
+    {
+      "path": "07_intelligence_capital/03_knowledge_maturity_model.md",
+      "size_bytes": 364,
+      "extension": ".md"
+    },
+    {
+      "path": "07_intelligence_capital/04_compounding_engine.md",
+      "size_bytes": 340,
+      "extension": ".md"
+    },
+    {
+      "path": "08_ai_governance/01_ai_governance_framework.md",
+      "size_bytes": 1061,
+      "extension": ".md"
+    },
+    {
+      "path": "08_ai_governance/02_ai_use_case_risk_classification.md",
+      "size_bytes": 485,
+      "extension": ".md"
+    },
+    {
+      "path": "08_ai_governance/03_human_in_the_loop.md",
+      "size_bytes": 997,
+      "extension": ".md"
+    },
+    {
+      "path": "08_ai_governance/04_model_and_prompt_governance.md",
+      "size_bytes": 902,
+      "extension": ".md"
+    },
+    {
+      "path": "08_ai_governance/05_ai_incident_management.md",
+      "size_bytes": 1002,
+      "extension": ".md"
+    },
+    {
+      "path": "09_operating_model/01_eios_operating_model.md",
+      "size_bytes": 334,
+      "extension": ".md"
+    },
+    {
+      "path": "09_operating_model/02_knowledge_intake_process.md",
+      "size_bytes": 769,
+      "extension": ".md"
+    },
+    {
+      "path": "09_operating_model/03_quality_gate.md",
+      "size_bytes": 669,
+      "extension": ".md"
+    },
+    {
+      "path": "09_operating_model/04_change_management.md",
+      "size_bytes": 340,
+      "extension": ".md"
+    },
+    {
+      "path": "09_operating_model/05_training_and_capability.md",
+      "size_bytes": 625,
+      "extension": ".md"
+    },
+    {
+      "path": "09_operating_model/06_process_taxonomy_apqc.md",
+      "size_bytes": 2779,
+      "extension": ".md"
+    },
+    {
+      "path": "10_measurement/01_enterprise_intelligence_score.md",
+      "size_bytes": 792,
+      "extension": ".md"
+    },
+    {
+      "path": "10_measurement/02_kpi_catalog.md",
+      "size_bytes": 1345,
+      "extension": ".md"
+    },
+    {
+      "path": "10_measurement/03_maturity_assessment.md",
+      "size_bytes": 668,
+      "extension": ".md"
+    },
+    {
+      "path": "10_measurement/04_pcf_kpi_map.md",
+      "size_bytes": 2582,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/ai_use_case_assessment_template.md",
+      "size_bytes": 255,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/assumption_register_template.md",
+      "size_bytes": 192,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/decision_record_template.md",
+      "size_bytes": 305,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/investment_memo_template.md",
+      "size_bytes": 2506,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/knowledge_object_template.md",
+      "size_bytes": 269,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/kpi_register.csv",
+      "size_bytes": 180,
+      "extension": ".csv"
+    },
+    {
+      "path": "11_templates/lesson_learned_template.md",
+      "size_bytes": 241,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/metadata_register.csv",
+      "size_bytes": 223,
+      "extension": ".csv"
+    },
+    {
+      "path": "11_templates/pattern_template.md",
+      "size_bytes": 188,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/process_detail_template.md",
+      "size_bytes": 4233,
+      "extension": ".md"
+    },
+    {
+      "path": "11_templates/rasci_matrix_template.csv",
+      "size_bytes": 1163,
+      "extension": ".csv"
+    },
+    {
+      "path": "11_templates/regulatory_register.csv",
+      "size_bytes": 4383,
+      "extension": ".csv"
+    },
+    {
+      "path": "11_templates/relationship_register.csv",
+      "size_bytes": 107,
+      "extension": ".csv"
+    },
+    {
+      "path": "12_database/01_core_schema.sql",
+      "size_bytes": 875,
+      "extension": ".sql"
+    },
+    {
+      "path": "12_database/02_decision_schema.sql",
+      "size_bytes": 757,
+      "extension": ".sql"
+    },
+    {
+      "path": "12_database/03_ontology_schema.sql",
+      "size_bytes": 869,
+      "extension": ".sql"
+    },
+    {
+      "path": "12_database/04_seed_data.sql",
+      "size_bytes": 4206,
+      "extension": ".sql"
+    },
+    {
+      "path": "13_diagrams/01_eios_architecture.mmd",
+      "size_bytes": 366,
+      "extension": ".mmd"
+    },
+    {
+      "path": "13_diagrams/02_knowledge_lifecycle.mmd",
+      "size_bytes": 213,
+      "extension": ".mmd"
+    },
+    {
+      "path": "13_diagrams/03_decision_compounding_loop.mmd",
+      "size_bytes": 240,
+      "extension": ".mmd"
+    },
+    {
+      "path": "13_diagrams/04_governance_model.mmd",
+      "size_bytes": 279,
+      "extension": ".mmd"
+    },
+    {
+      "path": "13_diagrams/05_ownership_governance_chain.mmd",
+      "size_bytes": 815,
+      "extension": ".mmd"
+    },
+    {
+      "path": "14_examples/01_example_decision_record.md",
+      "size_bytes": 831,
+      "extension": ".md"
+    },
+    {
+      "path": "14_examples/02_example_knowledge_object.md",
+      "size_bytes": 774,
+      "extension": ".md"
+    },
+    {
+      "path": "14_examples/03_example_process_detail.md",
+      "size_bytes": 7977,
+      "extension": ".md"
+    },
+    {
+      "path": "14_examples/04_example_process_detail_minority.md",
+      "size_bytes": 8635,
+      "extension": ".md"
+    },
+    {
+      "path": "14_examples/05_example_process_detail_deadlock.md",
+      "size_bytes": 8058,
+      "extension": ".md"
+    },
+    {
+      "path": "15_codex/01_codex_implementation_guide.md",
+      "size_bytes": 617,
+      "extension": ".md"
+    },
+    {
+      "path": "15_codex/02_repository_backlog.md",
+      "size_bytes": 452,
+      "extension": ".md"
+    },
+    {
+      "path": "15_codex/03_definition_of_done.md",
+      "size_bytes": 299,
+      "extension": ".md"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size_bytes": 5248,
+      "extension": ".md"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size_bytes": 743,
+      "extension": ".md"
+    },
+    {
+      "path": "INDEX.md",
+      "size_bytes": 4487,
+      "extension": ".md"
+    },
+    {
+      "path": "MANIFESTO.md",
+      "size_bytes": 964,
+      "extension": ".md"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3330,
+      "extension": ".md"
+    },
+    {
+      "path": "ROADMAP.md",
+      "size_bytes": 756,
+      "extension": ".md"
+    }
+  ]
+}

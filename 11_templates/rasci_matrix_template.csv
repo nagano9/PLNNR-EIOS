@@ -1,0 +1,11 @@
+activity_id,activity_name,process_apqc_id,Direksi,CorSec,BusDev,ManPro,Keuangan,Dekom,PLN_Persero,Kementerian_BUMN,penugasan_nonpenugasan,governance_gate,notes
+ACT-0001,Deal sourcing,2.1.1,A,I,R,S,C,I,I,I,Non-Penugasan,DMR,Contoh; validasi per proses
+ACT-0002,Due diligence commercial,2.2.1,A,C,R,S,S,I,C,I,Non-Penugasan,DMR,BusDev R untuk commercial DD
+ACT-0003,Due diligence financial,2.2.2,A,C,C,S,R,I,C,I,Non-Penugasan,DMR,Keuangan R untuk financial DD
+ACT-0004,Investment memo,2.3.1,A,S,R,C,C,I,I,I,Non-Penugasan,Direksi,Conclusion-first
+ACT-0005,Presentasi DMR,2.3.2,A,R,C,C,C,I,I,I,Both,DMR,CorSec R untuk penyiapan forum
+ACT-0006,Keputusan investasi,2.3.3,A,I,C,I,C,A,C,I,Non-Penugasan,Dekom,A ganda Direksi+Dekom di atas threshold Dekom per AD
+ACT-0007,Persiapan RUPS,2.4.1,A,R,C,I,C,I,C,I,Both,RUPS,CorSec R untuk RUPS prep
+ACT-0008,Pelaksanaan RUPS,2.4.2,A,R,I,I,I,A,A,A,Penugasan,RUPS,Penugasan: PLN Persero & Kementerian BUMN A
+ACT-0009,Penunjukan wakil di JVC,5.1.1,A,I,R,I,I,I,C,I,Non-Penugasan,Direksi,Fit & proper; lalu Dekom & RUPS JVC gate
+ACT-0010,Voting instruction RUPS JVC,5.1.2,A,C,R,I,I,I,I,I,Non-Penugasan,Direksi,Bid Portofolio + Hukum

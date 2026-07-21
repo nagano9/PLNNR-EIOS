@@ -1,0 +1,2 @@
+kpi_id,name,definition,formula,owner,frequency,target,source
+EIOS-KPI-001,Knowledge Reuse Rate,Persentase object digunakan kembali,reused_objects/active_objects,##,monthly,##,##

@@ -1,0 +1,14 @@
+flowchart TB
+    S[Source Systems] --> I[Ingestion]
+    I --> K[Knowledge Layer]
+    K --> G[Ontology & Knowledge Graph]
+    G --> R[Retrieval & Reasoning]
+    R --> D[Decision Intelligence]
+    D --> U[Users & AI Agents]
+    U --> F[Feedback & Learning]
+    F --> K
+    GOV[Governance, Security, Audit] --- S
+    GOV --- I
+    GOV --- K
+    GOV --- R
+    GOV --- D

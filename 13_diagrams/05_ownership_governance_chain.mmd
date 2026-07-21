@@ -1,0 +1,17 @@
+flowchart TB
+    subgraph STATE[Negara / Pemegang Saham]
+        DAN[BPI Danantara<br/>UU 1/2025 - PP 10/2025]
+    end
+    DAN -->|coordinates / approves capital| PLN[PT PLN Persero<br/>UU 19/2003]
+    PLN -->|owns| PLNNP[PT PLN Nusantara Power<br/>sub-holding pembangkitan]
+    PLNNP -->|owns| PLNNR[PT PLN Nusantara Renewables<br/>eks PJB Investasi]
+    PLNNR -->|invests_in| CIR[PLTS Terapung Cirata 145 MWac]
+    PLNNR -->|invests_in| BT[PLTA Batang Toru 510 MW]
+    PLNNR -->|invests_in| KK[PLTS Terapung Karangkates]
+
+    GCG[GCG BUMN<br/>PER-2/MBU/03/2023]:::gov -.governs.- PLN
+    GCG -.governs.- PLNNR
+    RISK[Manajemen Risiko<br/>PER-5/MBU/09/2022]:::gov -.governs.- PLNNR
+    SIG[Aksi Korporasi Signifikan<br/>persetujuan berjenjang]:::gov -.applies to.- PLNNR
+
+    classDef gov fill:#eef,stroke:#559;

@@ -1,0 +1,9 @@
+stateDiagram-v2
+    [*] --> Draft
+    Draft --> Review
+    Review --> Validated
+    Review --> Draft
+    Validated --> Published
+    Published --> Superseded
+    Published --> Archived
+    Superseded --> Archived
