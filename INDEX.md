@@ -1,6 +1,6 @@
 # Repository Index
 
-Total artefak: 91
+Total artefak: 99  _(seluruh file dalam repo kecuali manifest.json)_
 
 ## 00_governance
 - `00_governance/01_enterprise_intelligence_manifesto.md`
@@ -10,6 +10,7 @@ Total artefak: 91
 - `00_governance/05_repository_governance.md`
 - `00_governance/06_regulatory_basis.md`
 - `00_governance/07_decision_authority_and_gates.md`
+- `00_governance/08_assumptions_and_verification_register.md`
 ## 01_architecture
 - `01_architecture/01_eios_reference_architecture.md`
 - `01_architecture/02_system_context.md`
@@ -50,6 +51,7 @@ Total artefak: 91
 - `07_intelligence_capital/02_intelligence_balance_sheet.md`
 - `07_intelligence_capital/03_knowledge_maturity_model.md`
 - `07_intelligence_capital/04_compounding_engine.md`
+- `07_intelligence_capital/05_value_case.md`
 ## 08_ai_governance
 - `08_ai_governance/01_ai_governance_framework.md`
 - `08_ai_governance/02_ai_use_case_risk_classification.md`
@@ -63,20 +65,22 @@ Total artefak: 91
 - `09_operating_model/04_change_management.md`
 - `09_operating_model/05_training_and_capability.md`
 - `09_operating_model/06_process_taxonomy_apqc.md`
+- `09_operating_model/07_end_to_end_walkthrough.md`
 ## 10_measurement
 - `10_measurement/01_enterprise_intelligence_score.md`
 - `10_measurement/02_kpi_catalog.md`
 - `10_measurement/03_maturity_assessment.md`
 - `10_measurement/04_pcf_kpi_map.md`
+- `10_measurement/05_maturity_baseline_2026.md`
 ## 11_templates
 - `11_templates/ai_use_case_assessment_template.md`
 - `11_templates/assumption_register_template.md`
 - `11_templates/decision_record_template.md`
+- `11_templates/investment_memo_template.md`
 - `11_templates/knowledge_object_template.md`
 - `11_templates/kpi_register.csv`
 - `11_templates/lesson_learned_template.md`
 - `11_templates/metadata_register.csv`
-- `11_templates/investment_memo_template.md`
 - `11_templates/pattern_template.md`
 - `11_templates/process_detail_template.md`
 - `11_templates/rasci_matrix_template.csv`
@@ -103,9 +107,15 @@ Total artefak: 91
 - `15_codex/01_codex_implementation_guide.md`
 - `15_codex/02_repository_backlog.md`
 - `15_codex/03_definition_of_done.md`
+- `15_codex/04_activation_plan_90day.md`
+## 16_review
+- `16_review/01_independent_quality_review.md`
+- `16_review/02_elevation_response.md`
 ## root
 - `CHANGELOG.md`
 - `CONTRIBUTING.md`
+- `EXECUTIVE_BRIEF.md`
+- `INDEX.md`
 - `MANIFESTO.md`
 - `README.md`
 - `ROADMAP.md`
