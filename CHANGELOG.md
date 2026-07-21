@@ -1,5 +1,18 @@
 # Changelog
 
+## v3.0 (Institutional Grade — Reviewed & Elevated)
+Menindaklanjuti review independen bergaya partner konsultan (verdikt pra-v3.0: 61/100). Rincian: `16_review/`.
+- **Executive layer:** `EXECUTIVE_BRIEF.md` (board-ready 1 halaman).
+- **Value case:** `07_intelligence_capital/05_value_case.md` (EIOS sebagai investasi; value-at-stake).
+- **Maturity baseline jujur:** `10_measurement/05_maturity_baseline_2026.md` (10 domain, ≈1,4/5).
+- **Assumptions & Verification Register:** `00_governance/08` — konsolidasi seluruh item unverified (owner+tenggat).
+- **90-day activation plan:** `15_codex/04` (owner, quick wins, DoD).
+- **Narrative spine:** `09_operating_model/07_end_to_end_walkthrough.md` (1 transaksi JVC menjahit seluruh standar).
+- **Assurance trail:** `16_review/01` review independen + `16_review/02` respons elevasi.
+- **P0 defects diperbaiki:** placeholder Charter/contoh; drift jumlah artefak & INDEX diregenerasi; README numbering; regulatory register kini punya kolom primary_source/checked_by/checked_date (honor H6).
+- **Deepened core-thesis files:** decision compounding, compounding engine, maturity model, decision quality (rubrik), operating model (enterprise RACI), change management, template asumsi/pattern (contoh terisi), relationship model.
+- **Konsolidasi:** satu rilis kanonik v3.0 (mengakhiri version sprawl v2.0–v2.6).
+
 ## v2.6 (JVC Deadlock Example)
 - Menambahkan `14_examples/05_example_process_detail_deadlock.md` — contoh terisi Proses **5.2.3 Pengelolaan Deadlock Resolution** yang melengkapi trilogi governance diferensial JVC (mayoritas→minoritas→deadlock): escalation ladder musyawarah→mediasi→arbitrase→buyout, 3 aktivitas L4 (5.2.3.1–5.2.3.3) dengan PIC & SOP-190..192, RASCI, 4 KPI, risiko, dan interface ke Corporate Memory (lessons learned) & Decision Intelligence (keputusan buyout).
 
