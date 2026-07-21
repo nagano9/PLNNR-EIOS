@@ -1,28 +1,28 @@
-reg_id,instrument,number,year,issuer,type,eios_domain,scope_summary,binding,verification_status
-REG-001,UU BUMN,19,2003,Pemerintah RI,Undang-Undang,governance,Landasan hukum BUMN: bentuk Persero/Perum organ tujuan pengawasan privatisasi,binding,verified
-REG-002,UU Perubahan Ketiga UU BUMN,1,2025,Pemerintah RI,Undang-Undang,ownership,Membentuk BPI Danantara dan menata ulang kepemilikan serta tata kelola BUMN,binding,verified
-REG-003,PP Danantara,10,2025,Pemerintah RI,Peraturan Pemerintah,ownership,Organisasi dan tata kelola BPI Danantara,binding,verified
-REG-004,PP Danantara,34,2025,Pemerintah RI,Peraturan Pemerintah,ownership,Perluasan pembentukan holding operasional/investasi Danantara,binding,verified
-REG-005,PER Menteri BUMN,PER-2/MBU/03/2023,2023,Kementerian BUMN,Peraturan Menteri,governance,Pedoman Tata Kelola dan Kegiatan Korporasi Signifikan BUMN (menggantikan PER-01/MBU/2011); sumber internal APQC menyebut PER-01/MBU/03/2023 untuk GCG - rekonsiliasi diperlukan,binding,needs-reconciliation
-REG-006,PER Menteri BUMN,PER-3/MBU/03/2023,2023,Kementerian BUMN,Peraturan Menteri,people,Organ dan Sumber Daya Manusia BUMN (Direksi Komisaris remunerasi talenta),binding,verified
-REG-007,PER Menteri BUMN,PER-5/MBU/09/2022,2022,Kementerian BUMN,Peraturan Menteri,risk,Penerapan Manajemen Risiko pada BUMN termasuk SPI dan komite risiko,binding,verified
-REG-008,PER Menteri BUMN,PER-06/MBU/04/2021,2021,Kementerian BUMN,Peraturan Menteri,people,Organ pendukung Dewan Komisaris (historis telah dicabut/digantikan),historical,verified
-REG-009,PUGKI,PUGKI-2021,2021,KNKG,Pedoman,governance,Pedoman Umum Governansi Korporat Indonesia 8 prinsip,guideline,verified
-REG-010,UU Pelindungan Data Pribadi,27,2022,Pemerintah RI,Undang-Undang,data_protection,Perlindungan data pribadi hak subjek data kewajiban pengendali sanksi,binding,verified
-REG-011,SE Menkominfo Etika AI,9,2023,Kemenkominfo,Surat Edaran,ai_governance,Panduan etika kecerdasan artifisial inklusivitas kemanusiaan keamanan transparansi,non-binding,verified
-REG-012,ISO Knowledge Management,ISO 30401,2018,ISO,Standar Internasional,knowledge,Requirements untuk Knowledge Management System,best-practice,verified
-REG-013,ISO AI Management,ISO/IEC 42001,2023,ISO/IEC,Standar Internasional,ai_governance,Requirements untuk Artificial Intelligence Management System,best-practice,verified
-REG-014,ISO Information Security,ISO/IEC 27001,2022,ISO/IEC,Standar Internasional,security,Requirements untuk Information Security Management System,best-practice,verified
-REG-015,ISO Risk Management,ISO 31000,2018,ISO,Standar Internasional,risk,Prinsip dan panduan manajemen risiko,best-practice,verified
-REG-016,ISO Asset Management,ISO 55001,2014,ISO,Standar Internasional,asset,Requirements untuk Asset Management System,best-practice,verified
-REG-017,NIST AI RMF,AI RMF 1.0,2023,NIST,Framework,ai_governance,Fungsi Govern Map Measure Manage untuk AI tepercaya,best-practice,verified
-REG-018,EU AI Act,2024/1689,2024,Uni Eropa,Regulasi,ai_governance,Klasifikasi risiko AI empat tingkat rujukan risk-tiering,reference,verified
-REG-019,UU BUMN Perubahan Keempat,16,2025,Pemerintah RI,Undang-Undang,ownership,Dugaan perubahan keempat UU BUMN pasca-Danantara,binding,unverified
-REG-020,UU Perseroan Terbatas,40,2007,Pemerintah RI,Undang-Undang,governance,Dasar hukum PT: organ RUPS/Direksi/Dekom batas kewenangan RUPS,binding,verified
-REG-021,APQC Process Classification Framework,PCF v7.3.0,2023,APQC,Framework,process,Referensi hierarki klasifikasi proses lintas industri,best-practice,verified
-REG-022,POJK Keuangan Berkelanjutan,51/POJK.03/2017,2017,OJK,Peraturan OJK,esg,Penerapan keuangan berkelanjutan bagi lembaga jasa keuangan & emiten,binding,verify-amendment
-REG-023,GRI Universal Standards,GRI 3.0,2021,GRI,Standar Pelaporan,esg,Standar pelaporan keberlanjutan,best-practice,verified
-REG-024,TCFD Recommendations,TCFD,2021,TCFD,Framework,esg,Pengungkapan risiko keuangan terkait iklim,best-practice,verified
-REG-025,Equator Principles,EP4,2020,Equator Assoc,Framework,esg,Kerangka risiko lingkungan & sosial project finance,best-practice,verified
-REG-026,GRESB Real Assets,GRESB,2026,GRESB,Benchmark,esg,Benchmark ESG portofolio aset riil/EBT,best-practice,verify-annual
-REG-027,ISO Business Continuity,ISO 22301,2019,ISO,Standar Internasional,resilience,Business Continuity Management System,best-practice,verified
+reg_id,instrument,number,year,issuer,type,eios_domain,scope_summary,binding,verification_status,primary_source,checked_by,checked_date
+REG-001,UU BUMN,19,2003,Pemerintah RI,Undang-Undang,governance,Landasan hukum BUMN: bentuk Persero/Perum organ tujuan pengawasan privatisasi,binding,secondary-verified,peraturan.bpk.go.id,EIOS secondary review,2026-07-21
+REG-002,UU Perubahan Ketiga UU BUMN,1,2025,Pemerintah RI,Undang-Undang,ownership,Membentuk BPI Danantara dan menata ulang kepemilikan serta tata kelola BUMN,binding,secondary-verified,peraturan.bpk.go.id/Details/314622,EIOS secondary review,2026-07-21
+REG-003,PP Danantara,10,2025,Pemerintah RI,Peraturan Pemerintah,ownership,Organisasi dan tata kelola BPI Danantara,binding,secondary-verified,peraturan.bpk.go.id/Details/314627,EIOS secondary review,2026-07-21
+REG-004,PP Danantara,34,2025,Pemerintah RI,Peraturan Pemerintah,ownership,Perluasan pembentukan holding operasional/investasi Danantara,binding,secondary-verified,peraturan.bpk.go.id/Details/328621,EIOS secondary review,2026-07-21
+REG-005,PER Menteri BUMN,PER-2/MBU/03/2023,2023,Kementerian BUMN,Peraturan Menteri,governance,Pedoman Tata Kelola dan Kegiatan Korporasi Signifikan BUMN (menggantikan PER-01/MBU/2011),binding,needs-reconciliation,jdih.bumn.go.id/peraturan/PER-2-MBU-03-2023,EIOS secondary review,2026-07-21
+REG-006,PER Menteri BUMN,PER-3/MBU/03/2023,2023,Kementerian BUMN,Peraturan Menteri,people,Organ dan Sumber Daya Manusia BUMN (Direksi Komisaris remunerasi talenta),binding,secondary-verified,jdih.bumn.go.id,EIOS secondary review,2026-07-21
+REG-007,PER Menteri BUMN,PER-5/MBU/09/2022,2022,Kementerian BUMN,Peraturan Menteri,risk,Penerapan Manajemen Risiko pada BUMN termasuk SPI dan komite risiko,binding,secondary-verified,peraturan.bpk.go.id/Details/232829,EIOS secondary review,2026-07-21
+REG-008,PER Menteri BUMN,PER-06/MBU/04/2021,2021,Kementerian BUMN,Peraturan Menteri,people,Organ pendukung Dewan Komisaris (historis telah dicabut/digantikan),historical,secondary-verified,peraturan.bpk.go.id/Details/176700,EIOS secondary review,2026-07-21
+REG-009,PUGKI,PUGKI-2021,2021,KNKG,Pedoman,governance,Pedoman Umum Governansi Korporat Indonesia 8 prinsip,guideline,secondary-verified,knkg.or.id,EIOS secondary review,2026-07-21
+REG-010,UU Pelindungan Data Pribadi,27,2022,Pemerintah RI,Undang-Undang,data_protection,Perlindungan data pribadi hak subjek data kewajiban pengendali sanksi,binding,secondary-verified,peraturan.bpk.go.id/Details/229798,EIOS secondary review,2026-07-21
+REG-011,SE Menkominfo Etika AI,9,2023,Kemenkominfo,Surat Edaran,ai_governance,Panduan etika kecerdasan artifisial inklusivitas kemanusiaan keamanan transparansi,non-binding,secondary-verified,jdih.komdigi.go.id,EIOS secondary review,2026-07-21
+REG-012,ISO Knowledge Management,ISO 30401,2018,ISO,Standar Internasional,knowledge,Requirements untuk Knowledge Management System,best-practice,issuer-confirmed,iso.org,EIOS secondary review,2026-07-21
+REG-013,ISO AI Management,ISO/IEC 42001,2023,ISO/IEC,Standar Internasional,ai_governance,Requirements untuk Artificial Intelligence Management System,best-practice,issuer-confirmed,iso.org,EIOS secondary review,2026-07-21
+REG-014,ISO Information Security,ISO/IEC 27001,2022,ISO/IEC,Standar Internasional,security,Requirements untuk Information Security Management System,best-practice,issuer-confirmed,iso.org,EIOS secondary review,2026-07-21
+REG-015,ISO Risk Management,ISO 31000,2018,ISO,Standar Internasional,risk,Prinsip dan panduan manajemen risiko,best-practice,issuer-confirmed,iso.org,EIOS secondary review,2026-07-21
+REG-016,ISO Asset Management,ISO 55001,2014,ISO,Standar Internasional,asset,Requirements untuk Asset Management System,best-practice,issuer-confirmed,iso.org,EIOS secondary review,2026-07-21
+REG-017,NIST AI RMF,AI RMF 1.0,2023,NIST,Framework,ai_governance,Fungsi Govern Map Measure Manage untuk AI tepercaya,best-practice,issuer-confirmed,nist.gov,EIOS secondary review,2026-07-21
+REG-018,EU AI Act,2024/1689,2024,Uni Eropa,Regulasi,ai_governance,Klasifikasi risiko AI empat tingkat rujukan risk-tiering,reference,issuer-confirmed,eur-lex.europa.eu,EIOS secondary review,2026-07-21
+REG-019,UU BUMN Perubahan Keempat,16,2025,Pemerintah RI,Undang-Undang,ownership,Dugaan perubahan keempat UU BUMN pasca-Danantara,binding,unverified,belum dikonfirmasi sumber primer,EIOS secondary review,2026-07-21
+REG-020,UU Perseroan Terbatas,40,2007,Pemerintah RI,Undang-Undang,governance,Dasar hukum PT: organ RUPS/Direksi/Dekom batas kewenangan RUPS,binding,secondary-verified,peraturan.bpk.go.id,EIOS secondary review,2026-07-21
+REG-021,APQC Process Classification Framework,PCF v7.3.0,2023,APQC,Framework,process,Referensi hierarki klasifikasi proses lintas industri,best-practice,issuer-confirmed,apqc.org,EIOS secondary review,2026-07-21
+REG-022,POJK Keuangan Berkelanjutan,51/POJK.03/2017,2017,OJK,Peraturan OJK,esg,Penerapan keuangan berkelanjutan bagi lembaga jasa keuangan & emiten,binding,verify-amendment,jdih.ojk.go.id,EIOS secondary review,2026-07-21
+REG-023,GRI Universal Standards,GRI 3.0,2021,GRI,Standar Pelaporan,esg,Standar pelaporan keberlanjutan,best-practice,issuer-confirmed,globalreporting.org,EIOS secondary review,2026-07-21
+REG-024,TCFD Recommendations,TCFD,2021,TCFD,Framework,esg,Pengungkapan risiko keuangan terkait iklim,best-practice,issuer-confirmed,fsb-tcfd.org,EIOS secondary review,2026-07-21
+REG-025,Equator Principles,EP4,2020,Equator Assoc,Framework,esg,Kerangka risiko lingkungan & sosial project finance,best-practice,issuer-confirmed,equator-principles.com,EIOS secondary review,2026-07-21
+REG-026,GRESB Real Assets,GRESB,2026,GRESB,Benchmark,esg,Benchmark ESG portofolio aset riil/EBT,best-practice,verify-annual,gresb.com,EIOS secondary review,2026-07-21
+REG-027,ISO Business Continuity,ISO 22301,2019,ISO,Standar Internasional,resilience,Business Continuity Management System,best-practice,issuer-confirmed,iso.org,EIOS secondary review,2026-07-21
