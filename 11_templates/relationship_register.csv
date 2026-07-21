@@ -1,2 +1,3 @@
 source_object_id,relationship,target_object_id,evidence,status
-EXAMPLE-001,supports,EXAMPLE-002,##,draft
+DEC-INV-2026-0001,depends_on,ASM-FIN-2026-0001,Board paper Q3-2026 hal.4,validated
+PROC-JVC-2026-0521,supersedes,PROC-JVC-2026-0500,Perubahan struktur governance JVC,draft
